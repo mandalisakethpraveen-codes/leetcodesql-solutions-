@@ -22,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1729-find-followers-count) |
+| [1965-employees-with-missing-information](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
