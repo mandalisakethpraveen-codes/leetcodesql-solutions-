@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Pigeonhole Principle
 |  |
