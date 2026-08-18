@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## String
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
