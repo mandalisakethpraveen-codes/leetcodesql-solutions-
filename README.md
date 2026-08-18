@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
