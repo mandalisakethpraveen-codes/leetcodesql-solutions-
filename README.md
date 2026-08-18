@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1729-find-followers-count) |
 | [1965-employees-with-missing-information](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1965-employees-with-missing-information) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
