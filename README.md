@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/1965-employees-with-missing-information) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
