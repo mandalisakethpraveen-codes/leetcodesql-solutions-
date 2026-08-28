@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0202-happy-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Pigeonhole Principle
 |  |
@@ -77,8 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mandalisakethpraveen-codes/leetcodesql-solutions-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
